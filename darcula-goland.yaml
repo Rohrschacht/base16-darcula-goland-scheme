@@ -9,7 +9,7 @@ base05: "a9b7c6" # foreground
 base06: "ffc66d" # function bright yellow
 base07: "ffffff"
 base08: "4eade5" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
-base09: "c7773e" # Integers, Boolean, Constants, XML Attributes, Markup Link Url
+base09: "6897bb" # Integers, Boolean, Constants, XML Attributes, Markup Link Url
 base0A: "6fafbd" # Classes, Markup Bold, Search Text Background
 base0B: "6a8759" # Strings, Inherited Class, Markup Code, Diff Inserted
 base0C: "c7773e" # Support, Regular Expressions, Escape Characters, Markup Quotes
